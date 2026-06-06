@@ -1,0 +1,13 @@
+package com.aaruu.pagination;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PaginationDemo1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
